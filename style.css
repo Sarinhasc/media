@@ -1,0 +1,17 @@
+body
+{
+    background: cornflowerblue;
+}
+
+input
+{
+    border-radius: 7px;
+    border-color: black;
+}
+
+button
+{
+    background-color: darkturquoise;
+    color: brown;
+    border-radius: 7px;
+}
